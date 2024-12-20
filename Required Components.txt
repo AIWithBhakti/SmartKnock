@@ -1,0 +1,7 @@
+Required Components:
+1.Arduino Uno (virtual, in Tinkercad)
+2.Breadboard (virtual)
+3.Connecting Wires
+4.Buzzer
+5.Ultrasonic sensor
+6.Led 
