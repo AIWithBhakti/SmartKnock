@@ -1,6 +1,6 @@
-# Automatic-Door-Bell-Sensor-Using-Arduino
+# SmartKnock
 
-# Door Bell Sensor
+# SmartKnock
 
 This project demonstrates a **Door Bell Sensor** system using Arduino and Tinkercad. The system simulates the functionality of LDR and thermistors while incorporating a buzzer, ultrasonic sensor, and LED to create an interactive doorbell solution.
 
